@@ -1,5 +1,7 @@
 # Домашнее задание к занятию "13.Системы мониторинга"
 
+## ТЕОРИЯ
+
 ## 1. Минимальный набор метрик для мониторинга проекта
 
 ### Исходные условия
@@ -203,3 +205,13 @@ SLA = sum_2xx_requests / sum_all_requests
 | VictoriaMetrics | Hybrid |
 | Nagios | Pull |
 
+---
+
+## ПРАКТИКА
+
+![chronograf](img/01.png)
+![metrics](img/02.png)
+![metrics](img/03.png)
+![metrics](img/04.png)
+![metrics](img/05.png)
+![metrics](img/06.png)
